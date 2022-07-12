@@ -1,2 +1,2 @@
-*.Rhistory
-/Resources/config.py
+# Ignore the config.py file.
+config.py
